@@ -60,21 +60,6 @@ I helped a client launch **MedTech Connect** — a next-gen healthcare connectiv
 
 ---
 
-### Connect With Me
-<p align="center">
-  <a href="https://youtube.com/@SibuCodeLab">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/sibulynx">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sibusiso-makhiwane">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/yourprofile">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-00b894?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
 
 ---
 
