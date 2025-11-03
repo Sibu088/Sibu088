@@ -25,13 +25,19 @@ I love building **scalable web apps**, **AI-driven tools**, and **digital experi
 ### 🔥 Featured Project - **MedTech Connect** (LIVE NOW!)
 <p align="center">
   <a href="https://medtechconnect-1.onrender.com/">
-    <img src="https://medtechconnect-1.onrender.com/static/images/home-preview.png" width="800" alt="MedTech Connect Homepage - Live" />
+    <img src="https://raw.githubusercontent.com/Sibu088/SoccerRankingApp/main/screenshot/Screenshot%202025-11-02%20200852.png" width="800" alt="MedTech Connect - Live Homepage Screenshot" />
   </a>
 </p>
 
-**Just deployed!** 🚀 I helped bring **MedTech Connect** to life — a modern healthcare connectivity platform now live and fully operational.  
-From setup to deployment, I handled the full rollout on **Render**, ensuring scalability, security, and a polished user experience.
+**LIVE & DELIVERED!**  
+I just deployed **MedTech Connect** — a premium medical equipment marketplace that connects hospitals with trusted suppliers in real-time.
 
-**Tech Stack Used:**
+**What I delivered:**
+- Full Render.com deployment (zero downtime)
+- Production-grade PostgreSQL + secure env vars
+- Lightning-fast React + Tailwind frontend
+- Mobile-responsive hero, search & supplier dashboard
+
+**Tech Stack:**  
 ```text
-Django | PostgreSQL | React | Tailwind CSS | Render
+Django | React | PostgreSQL | Tailwind CSS | Render
