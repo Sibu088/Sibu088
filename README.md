@@ -22,15 +22,16 @@ I love building **scalable web apps**, **AI-driven tools**, and **digital experi
 
 ---
 
-### 🔥 Featured Project - **MedTech Live** (LIVE NOW!)
+### 🔥 Featured Project - **MedTech Connect** (LIVE NOW!)
 <p align="center">
   <a href="https://medtechconnect-1.onrender.com/">
-    <img src="https://medtechconnect-1.onrender.com/static/images/og-image.png" width="800" alt="MedTech Live - Live Now" />
+    <img src="https://medtechconnect-1.onrender.com/static/images/home-preview.png" width="800" alt="MedTech Connect Homepage - Live" />
   </a>
 </p>
 
-**Just deployed!** 🚀 Helped bring **MedTech Connect** to life - a cutting-edge platform revolutionizing healthcare connectivity.
+**Just deployed!** 🚀 I helped bring **MedTech Connect** to life — a modern healthcare connectivity platform now live and fully operational.  
+From setup to deployment, I handled the full rollout on **Render**, ensuring scalability, security, and a polished user experience.
 
 **Tech Stack Used:**
-```python
+```text
 Django | PostgreSQL | React | Tailwind CSS | Render
