@@ -78,12 +78,6 @@ I helped a client launch **MedTech Connect** — a next-gen healthcare connectiv
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibulynx&show_icons=true&theme=radical" alt="GitHub stats" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibulynx&theme=radical" alt="GitHub streak" width="450"/>
-</p>
-
 ---
 
 ### Quote I Live By
