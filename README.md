@@ -1,43 +1,98 @@
-# 👋 Hey, I'm Sibusiso Makhiwane  
-
-<p align="center">
-  <img width="800" alt="Preview" src="https://github.com/user-attachments/assets/66428a74-de6c-48f2-a3ae-0b9fe50e0492" />
-</p>
+# Hey, I'm Sibusiso Makhiwane  
 
 ---
 
-### 🚀 About Me
-Hi there! I'm **Sibusiso Makhiwane**, a passionate **Full-Stack Developer** and the founder of **SibuCodeLab** — where innovation meets clean, modern code.  
-I love building **scalable web apps**, **AI-driven tools**, and **digital experiences** that blend creativity with functionality.  
+### About Me
+Hi there! I'm **Sibusiso Makhiwane**, a passionate **Full-Stack Developer** and founder of **SibuCodeLab** — where innovation meets clean, modern code.  
+I build **scalable web apps**, **AI-driven tools**, and **impactful digital experiences** that work.
 
-💡 I’m always exploring new technologies and turning ideas into real-world products.  
-☕ Fueled by coffee, curiosity, and a mission to code like a genius.
+Always learning. Always shipping.  
+Fueled by coffee, curiosity, and a mission to **code like a genius**.
 
 ---
 
-### 🧠 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,django,nodejs,express,react,git,github,vscode,mongodb,mysql,figma,bootstrap,tailwind,linux,postman" />
 </p>
 
 ---
 
-### 🔥 Featured Project - **MedTech Connect** (LIVE NOW!)
+### Featured Project — **MedTech Connect** (LIVE!)
 <p align="center">
   <a href="https://medtechconnect-1.onrender.com/">
-    <img src="https://raw.githubusercontent.com/Sibu088/SoccerRankingApp/main/screenshot/Screenshot%202025-11-02%20200852.png" width="800" alt="MedTech Connect - Live Homepage Screenshot" />
+    <img src="https://github.com/Sibu088/SoccerRankingApp/blob/main/screenshot/Screenshot%202025-11-02%20200852.png?raw=true" width="800" alt="MedTech Connect - Live Homepage" />
   </a>
 </p>
 
-**LIVE & DELIVERED!**  
-I just deployed **MedTech Connect** — a premium medical equipment marketplace that connects hospitals with trusted suppliers in real-time.
+**Just deployed!**  
+I helped a client launch **MedTech Connect** — a next-gen healthcare connectivity platform now **live and running smoothly**.
 
-**What I delivered:**
-- Full Render.com deployment (zero downtime)
-- Production-grade PostgreSQL + secure env vars
-- Lightning-fast React + Tailwind frontend
-- Mobile-responsive hero, search & supplier dashboard
+**My Role:**  
+- Full deployment on **Render**  
+- Setup, configuration, security, and scaling  
+- Ensured performance, responsiveness, and reliability  
 
 **Tech Stack:**  
-```text
-Django | React | PostgreSQL | Tailwind CSS | Render
+`Django | PostgreSQL | React | Tailwind CSS | Render`
+
+[Visit Live Site](https://medtechconnect-1.onrender.com/)
+
+---
+
+### Interests
+- Full-Stack Development
+- AI & Machine Learning
+- Open Source
+- Cloud & Cybersecurity
+- UI/UX Design
+- Tech Entrepreneurship
+- YouTube Coding Tutorials
+
+---
+
+### Featured Video
+<p align="center">
+  <a href="https://youtu.be/8ZegbUlh_v8">
+    <img src="https://img.youtube.com/vi/8ZegbUlh_v8/maxresdefault.jpg" width="600" alt="Watch my latest tutorial"/>
+  </a>
+</p>
+
+---
+
+### Connect With Me
+<p align="center">
+  <a href="https://youtube.com/@SibuCodeLab">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/sibulynx">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sibusiso-makhiwane">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/yourprofile">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-00b894?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sibulynx&show_icons=true&theme=radical" alt="GitHub stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibulynx&theme=radical" alt="GitHub streak" width="450"/>
+</p>
+
+---
+
+### Quote I Live By
+> “Code is not just logic — it's **creativity, persistence, and art**.”  
+> — *SibuCodeLab*
+
+---
+
+<p align="center">
+  <b>MedTech Connect is LIVE. Real impact. Real code.</b><br>
+  <i>#CodeLikeAGenius | #SibuCodeLab | #MedTechConnect | #LiveDeployment | #FullStack</i>
+</p>
