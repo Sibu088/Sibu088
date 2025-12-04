@@ -29,7 +29,12 @@ Django | PostgreSQL | React | Tailwind CSS | Render
 Visit Live Site
 
 Featured Project — Code Debugger AI (LIVE!)
-<p align="center"> <a href="https://code-debugger-ai--mavismadira6.replit.app/"> <img src="https://raw.githubusercontent.com/Sibu088/SoccerRankingApp/main/screenshot/code_debugger_ai_preview.png" width="800" alt="Code Debugger AI - Live Preview" /> </a> </p>
+### Featured Project — **Code Debugger AI** (LIVE!)
+<p align="center">
+  <a href="https://code-debugger-ai--mavismadira6.replit.app/">
+    <img src="https://via.placeholder.com/800x400.png?text=Code+Debugger+AI+Preview" width="800" alt="Code Debugger AI - Live Preview" />
+  </a>
+</p>
 
 AI-Powered Code Debugging Platform
 A smart, interactive platform that analyzes code, detects issues, and delivers real-time debugging insights powered by LLM APIs.
